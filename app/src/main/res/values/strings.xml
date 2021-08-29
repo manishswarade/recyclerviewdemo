@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SkyCoderTest</string>
+
+    <string name="radius_selector">Radius Selector</string>
+
+    <string name="min_radius">100 M</string>
+
+    <string name="max_radius">5 KM</string>
+    <string name="network_not_availabe">Network not availabe</string>
+    <string name="api_access_key">Bearer XPFgzKwZGK1yqRxHi0d5xsARFOLpXIvccQj5jekqTnysweGyoIfVUHcH2tPfGq5Oc9kwKHPkcOjk2d1Xobn7aTjOFeop8x41IUfVvg2Y27KiINjYPADcE7Qza0RkX3Yx</string>
+</resources>
